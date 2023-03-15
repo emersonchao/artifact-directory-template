@@ -1,5 +1,5 @@
 Title:
-<MY SUPER AWESOME PROJECT TITLE>
+Multi-label Disease Prediction Based on Gut Microbiome
 
 Abstract:
-<MY SUPER AWESOME PROJECT ABSTRACT>
+In this study, we will be exploring the gut microbiome of Latin American immigrants to determine what factors of their gut microbiome affect metabolic diseases. The goal of our project is to determine what metabolic diseases/disorders an individual has based on their gut microbiome and other supporting information on the individual. To achieve our goal, we will utilize a binary-relevance model for each disease type to see if we can predict if an individual has that specified disease according to their microbiome factors.
